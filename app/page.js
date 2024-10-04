@@ -134,7 +134,8 @@ export default function Home() {
           Ready to Start Setting Up Your Meetings?
         </h2>
         <p className="text-xl mb-6">
-          Create an account and get started with MeetSync. It's free and easy.
+          Create an account and get started with MeetSync. It&apos;s free and
+          easy.
         </p>
         <Link href="/dashboard">
           <Button size="lg" variant="secondary" className="text-green-600">
